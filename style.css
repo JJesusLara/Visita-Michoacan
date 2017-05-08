@@ -1,6 +1,6 @@
 h1{
       font-size:100px;
-      color:#ff9900;
+      color:#007acc;
 }
 img{
       height:500px;
@@ -13,4 +13,5 @@ img{
 body{
         background-image:url("verde.jpg");
 }
-}
+#morelia{ font-size:40px;
+          color:#8600b3;}
